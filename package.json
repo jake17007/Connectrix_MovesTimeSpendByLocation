@@ -1,0 +1,24 @@
+{
+  "name": "fitbitbmi",
+  "version": "1.0.0",
+  "description": "Connectrix application to calculate BMI based on Fitbit data",
+  "main": "runApp.js",
+  "dependencies": {
+    "python-shell": "^0.4.0",
+    "rimraf": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jake17007/Connectrix_FitbitBMI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jake17007/Connectrix_FitbitBMI/issues"
+  },
+  "homepage": "https://github.com/jake17007/Connectrix_FitbitBMI#readme"
+}
